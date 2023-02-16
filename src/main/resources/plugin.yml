@@ -1,0 +1,4 @@
+name: NBTBackpacks
+version: '${project.version}'
+main: me.sylvieeeee.nbtbackpacks.NBTBackpacks
+api-version: 1.19
